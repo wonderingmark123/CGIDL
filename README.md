@@ -1,4 +1,4 @@
-# GHOST
+# CGIDL
 
 Please make sure that all codes and data are downloaded.
 
